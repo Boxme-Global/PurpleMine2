@@ -57,9 +57,11 @@
         margin-right: 5px;
       }
 
-      > .subject,
-      > .author {
-        padding-left: $issue-gravatar-size * 1.1 + 10px;
+      > .attributes {
+        padding: 10px;
+        background: #f2f2f282;
+        border-radius: 6px;
+        border: 1px solid #f2f2f2;
       }
     }
 
